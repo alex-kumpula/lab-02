@@ -4,4 +4,5 @@
     <string name="delete_city_button_text">DELETE CITY</string>
     <string name="title_label_text">ListyCity</string>
     <string name="city_entry_confirm_button_text">CONFIRM</string>
+    <string name="city_entry_input_field_hint">Enter a city…</string>
 </resources>
