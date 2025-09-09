@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             "Tokyo",
             "Beijing",
             "Osaka",
-            "New Delhi"
+            "New Delhi",
         };
 
         this.dataList = new ArrayList<String>();
