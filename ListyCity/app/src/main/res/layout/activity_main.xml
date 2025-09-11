@@ -20,7 +20,7 @@
         <Space
             android:id="@+id/title_spacer"
             android:layout_width="match_parent"
-            android:layout_height="30dp"
+            android:layout_height="0dp"
             app:layout_constraintBottom_toTopOf="@+id/title_bar_label"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -96,7 +96,6 @@
         android:layout_weight="1"
         android:visibility="visible"
         android:choiceMode="singleChoice"
-        android:listSelector="@android:color/darker_gray"
         app:layout_constraintBottom_toTopOf="@+id/city_entry_layout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
